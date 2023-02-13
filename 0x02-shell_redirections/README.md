@@ -1,1 +1,3 @@
-"Shell, I/O Redirections and filters readme"
+Task 0. Hello World 
+Task 1. Confused smiley
+
