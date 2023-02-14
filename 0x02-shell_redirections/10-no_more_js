@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.js" -delete8-cwd_state
+find . -type f -name "*.js" -delete
